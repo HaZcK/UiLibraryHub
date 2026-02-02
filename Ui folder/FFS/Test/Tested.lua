@@ -8,7 +8,7 @@
 ]]
 
 -- Load UI Library
-local UILibrary = loadstring(game:HttpGet("URL_KE_LIBRARY_ANDA"))()
+local UILibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/HaZcK/UiLibraryHub/refs/heads/main/Ui%20folder/FFS/RobloxUILibrary.lua"))()
 -- ATAU jika sudah disimpan secara lokal:
 -- local UILibrary = require(script.RobloxUILibrary)
 
