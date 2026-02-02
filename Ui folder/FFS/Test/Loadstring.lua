@@ -16,7 +16,7 @@
 ]]
 
 -- Load the library
-local UILibrary = loadstring(game:HttpGet("YOUR_LIBRARY_URL"))()
+local UILibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/HaZcK/UiLibraryHub/refs/heads/main/Ui%20folder/FFS/UILibrary_Main.lua"))()
 
 -- ═══════════════════════════════════════════════════════════════
 -- 1. CREATE WINDOW WITH ADVANCED OPTIONS
