@@ -17,7 +17,7 @@
 
 -- Load all modules
 local UILib_Core = loadstring(game:HttpGet("YOUR_CORE_URL"))()
-local UILib_WindowSystem = loadstring(game:HttpGet("YOUR_WINDOW_URL"))()
+local UILib_WindowSystem = loadstring(game:HttpGet("https://raw.githubusercontent.com/HaZcK/UiLibraryHub/refs/heads/main/Ui%20folder/FFS/UILib_WindowSystem.lua"))()
 local UILib_TitleBar = loadstring(game:HttpGet("YOUR_TITLEBAR_URL"))()
 local UILib_TabSystem = loadstring(game:HttpGet("YOUR_TABSYSTEM_URL"))()
 local UILib_Components = loadstring(game:HttpGet("YOUR_COMPONENTS_URL"))()
