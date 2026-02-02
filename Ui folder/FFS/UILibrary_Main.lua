@@ -16,7 +16,7 @@
 ]]
 
 -- Load all modules
-local UILib_Core = loadstring(game:HttpGet("YOUR_CORE_URL"))()
+local UILib_Core = loadstring(game:HttpGet("https://raw.githubusercontent.com/HaZcK/UiLibraryHub/refs/heads/main/Ui%20folder/FFS/UILib_Core.lua"))()
 local UILib_WindowSystem = loadstring(game:HttpGet("https://raw.githubusercontent.com/HaZcK/UiLibraryHub/refs/heads/main/Ui%20folder/FFS/UILib_WindowSystem.lua"))()
 local UILib_TitleBar = loadstring(game:HttpGet("https://raw.githubusercontent.com/HaZcK/UiLibraryHub/refs/heads/main/Ui%20folder/FFS/UILib_TitleBar.lua"))()
 local UILib_TabSystem = loadstring(game:HttpGet("https://raw.githubusercontent.com/HaZcK/UiLibraryHub/refs/heads/main/Ui%20folder/FFS/UILib_TabSystem.lua"))()--local UILib_Components = loadstring(game:HttpGet("YOUR_COMPONENTS_URL"))()
